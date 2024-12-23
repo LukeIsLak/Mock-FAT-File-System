@@ -49,7 +49,7 @@ The program is capable of the following feature:
     ```
 
 ### File Structure
-Main files (All created by Luke Kuligowicz)
+Main files
     - main.c : main holder file, manages the program
     - diskinfo.h : main functions for ./diskinfo
     - disklist.h : main functions for ./disklist
