@@ -1,6 +1,6 @@
-# p3 : FAT System Interpreter
+# FAT System Interpreter
 ### Overview
-This program is a FAT System Interpreter for CSC 360 Programming Assignment 3
+This program is a Mock FAT System Interpreter
 
 ### Features
 The program is capable of the following feature:
@@ -16,7 +16,7 @@ The program is capable of the following feature:
 1. **Prerequisites**: Install a C compiler such as gcc
 2. **Clone the repository**:
     ```
-    git clone https://gitlab.csc.uvic.ca/courses/2024091/CSC360_COSI/assignments/lukekuligowicz/p3.git
+    git clone https://github.com/LukeIsLak/Mock-FAT-File-System
     ```
 
 ### Usage
